@@ -1,4 +1,4 @@
-main
+#Job
         {
             width: 150px;
             height: 150px;
@@ -6,7 +6,7 @@ main
 
         }
 
-        p
+        .hello-accio-job
         {
             margin-left: 32px;
             padding: 10px;
